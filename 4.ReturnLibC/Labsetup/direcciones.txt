@@ -1,0 +1,7 @@
+gdb-peda$ p system
+$1 = {<text variable, no debug info>} 0xf7e12420 <system>
+gdb-peda$ p exit
+$2 = {<text variable, no debug info>} 0xf7e04f80 <exit>
+
+ffffd348 shell:
+
