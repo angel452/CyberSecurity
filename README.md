@@ -8,16 +8,16 @@
 </h1>
 
 # 📊 Contenido
-1.EnviromentVariable_SetUID
-2.ShellShock
-3.BufferOverflow
-4.ReturnLibC
-5.RaceCondition
-7.SpectreAttack
-9.FormatString
-10.CSRF
-11.XSS
-12.SQL_Injection
+1. EnviromentVariable_SetUID
+2. ShellShock
+3. BufferOverflow
+4. ReturnLibC
+5. RaceCondition
+7. SpectreAttack
+9. FormatString
+10. CSRF
+11. XSS
+12. SQL_Injection
 
 # ⭐ Media
 Puedes encontrar algunos videos de ejemplo en el siguiente link: https://www.youtube.com/playlist?list=PL_qLqTEpyBMbKSSi_dMWT9PsfnMXOraOm
